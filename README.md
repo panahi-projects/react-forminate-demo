@@ -8,7 +8,7 @@ Clone the repository and install dependencies:
 
 ```sh
 git clone https://github.com/panahi-projects/react-forminate-demo.git
-cd react-forminate-sample
+cd react-forminate-demo
 npm install
 ```
 
