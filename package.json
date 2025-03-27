@@ -2,6 +2,12 @@
   "name": "react-forminate-demo",
   "version": "0.1.0",
   "private": true,
+  "description": "A sample Next.js project showcasing how to use react-forminate for building dynamic and customizable forms with React and TypeScript. 🚀",
+  "author": {
+    "name": "Saeed Panahi",
+    "email": "panahi.projects@gmail.com",
+    "url": "https://github.com/panahi-projects"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
